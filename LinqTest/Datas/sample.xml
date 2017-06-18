@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<peeples>
+    <peeple ID = "1">
+        <FamilyName>山田</FamilyName>
+        <FirstName>太郎</FirstName>
+        <age>49</age>
+        <group>1</group>
+    </peeple>
+    <peeple ID = "2">
+        <FamilyName>田中</FamilyName>
+        <FirstName>太郎</FirstName>
+        <age>42</age>
+        <group>2</group>
+    </peeple>
+    <peeple ID = "3">
+        <FamilyName>田中</FamilyName>
+        <FirstName>花子</FirstName>
+        <age>33</age>
+        <group>2</group>
+    </peeple>
+    <peeple ID = "4">
+        <FamilyName>有澤</FamilyName>
+        <FirstName>隆文</FirstName>
+        <age>43</age>
+        <group>3</group>
+    </peeple>
+    <peeple ID = "5">
+        <FamilyName>山田</FamilyName>
+        <FirstName>次郎</FirstName>
+        <age>26</age>
+        <group>4</group>
+    </peeple>
+    <peeple ID = "6">
+        <FamilyName>有澤</FamilyName>
+        <FirstName>文隆</FirstName>
+        <age>21</age>
+        <group>3</group>
+    </peeple>
+    <peeple ID = "7">
+        <FamilyName>田中</FamilyName>
+        <FirstName>一郎</FirstName>
+        <age>39</age>
+        <group>2</group>
+    </peeple>
+    <peeple ID = "8">
+        <FamilyName>栃木</FamilyName>
+        <FirstName>元</FirstName>
+        <age>57</age>
+        <group>5</group>
+    </peeple>
+    <peeple ID = "9">
+        <FamilyName>山田</FamilyName>
+        <FirstName>トメ</FirstName>
+        <age>78</age>
+        <group>1</group>
+    </peeple>
+</peeples>
